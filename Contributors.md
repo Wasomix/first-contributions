@@ -151,6 +151,7 @@ Daniel Jung
 - [Justin Gagnon] (https://github.com/Aadrik)
 - [DieseKartoffel](https://github.com/DieseKartoffel)
 - goodgrieff
+- [Sergio F.](https://github.com/Wasomix)
 - [Ahmad Reza](https://github.com/hungryDev39)
 - [Anthony Chen] (https://github.com/achencoms)
 - [Ahmed Khaled] (https://github.com/ahmedkhaledak)
